@@ -26,7 +26,7 @@ Feature Examples:
 - `Exited` (target)
 
 ## Project Structure
-
+```text
 .
 ├── poetry.lock
 ├── pyproject.toml
@@ -44,6 +44,7 @@ Feature Examples:
 │   └── train.py
 └── tests
     └── __init__.py
+```
 
 ## Setup 
 
