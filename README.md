@@ -1,5 +1,5 @@
 # Bank Churn Prediction
-*Kaggle Playground Series - Season 4, Episode 1* 
+[*Kaggle Playground Series - Season 4, Episode 1*](https://www.kaggle.com/competitions/playground-series-s4e1/)
 
 Binary classification of customer churn using tabular banking data.
 Goal: Predict whether a customer will exit the bank (`Exited = 1`) and optimize for ROC-AUC
