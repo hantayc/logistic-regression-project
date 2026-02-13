@@ -16,6 +16,7 @@ dependencies = [
 ]
 
 [tool.poetry]
+name = "bank_churn_log_regression"
 packages = [{include = "bank_churn_log_regression", from = "src"}]
 
 [build-system]
